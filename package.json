@@ -2,7 +2,7 @@
 	"name": "VSCodeExpressiveTheme",
 	"displayName": "Expressive Theme",
 	"description": "An expressive theme based on Dark Pro (Atom) but much more colorful",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "Gaulomatic",
 	"author": {
 		"email": "tobiaspunke@googlemail.com",
