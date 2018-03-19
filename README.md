@@ -6,11 +6,11 @@ An expressive theme based on Dark Pro (Atom) but much more colorful. Optimized f
 
 # ScreenShots
 
-![C#](https://raw.githubusercontent.com/Binaryify/OneDark-Pro/master/static/screenshot1.png)
+![C#](https://github.com/Gaulomatic/VSCode-Expressive-Theme/blob/master/static/screenshot-csharp.png?raw=true)
 
-![TypeScript](https://raw.githubusercontent.com/Binaryify/OneDark-Pro/master/static/php.png)
+![TypeScript](https://github.com/Gaulomatic/VSCode-Expressive-Theme/blob/master/static/screenshot-typescript.png?raw=true)
 
-![JSON](https://raw.githubusercontent.com/Binaryify/OneDark-Pro/master/static/screenshot2.png)
+![JSON](https://github.com/Gaulomatic/VSCode-Expressive-Theme/blob/master/static/screenshot-json.png?raw=true)
 
 ## Tweaks & Workbench theming
 
