@@ -1457,7 +1457,7 @@
       "name": "JSON Constants (true, false)",
       "scope": "constant.language.json",
       "settings": {
-          "foreground": "#d17480"
+          "foreground": "#cc7fc6a8"
       }
   },
   {
