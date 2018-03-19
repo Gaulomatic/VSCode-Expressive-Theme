@@ -6,10 +6,13 @@ An expressive theme based on Dark Pro (Atom) but much more colorful. Optimized f
 
 # ScreenShots
 
+## C#
 ![C#](https://github.com/Gaulomatic/VSCode-Expressive-Theme/blob/master/static/screenshot-csharp.png?raw=true)
 
+## TypeScript
 ![TypeScript](https://github.com/Gaulomatic/VSCode-Expressive-Theme/blob/master/static/screenshot-typescript.png?raw=true)
 
+## JSON
 ![JSON](https://github.com/Gaulomatic/VSCode-Expressive-Theme/blob/master/static/screenshot-json.png?raw=true)
 
 ## Tweaks & Workbench theming
